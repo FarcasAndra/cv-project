@@ -1,0 +1,233 @@
+body {
+    background-color: #F5F7FA ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Right Section styles*/
+
+.right-section {
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color: #FFF;
+}
+.about-me-profession {
+    font-size: 14px;
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 100PX;
+}
+#personName {
+    font-family: Montserrat;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 30px;
+}
+
+.main-section {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto ;
+
+}
+.about-my-section {
+    
+    width: 400px;
+}
+
+.about-my-section p {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+
+}
+.project-section {
+   margin: 40px 0 0 0 ;
+}
+
+.block-title {
+    font-size: normal;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: 22px;
+    line-height: 27px;
+    color: #000; 
+}
+.project-section ol {
+    padding-left: 18px;
+
+ }
+
+ol li  .bracket {
+    color: #000;
+    font-weight: 700;
+}
+
+.projects-item {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    text-decoration-line: underline;
+    margin-left: 10px;
+
+}
+.projects-item a {
+    color:#595959 ;
+}
+.work-experience-section {
+    margin-top: 50px;
+}
+
+
+.work-experience-position {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+
+}
+.work-experience-company {
+    color: #FB6D3A; 
+}
+.period {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.line-break {
+    color: #000;
+}
+.work-experience-duties {
+    padding-left: 18px;
+}
+
+
+.work-experience-duties li {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    color: #595959;
+}
+
+.education-section {
+    margin-bottom: 110px;
+    margin-top: 40px;
+}
+.university-name {
+    color: #FB6D3A;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.university-degree {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+    /* SIDEBAR STYLES */
+
+.sidebar-section {
+    background-color: #B1CCFF ;
+    width: 370px;
+}
+
+.sidebar-section img {
+    margin-top: 20px;
+    width: 350px;
+    height: 450px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color:#161D2A ;
+    
+}
+.contacts-section, .tech-skills-section {
+    margin-left: 40px;  
+}
+
+.contacts-section-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color:#161D2A ;
+    margin-right: 10px;
+}
+.contacts-section-value {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #3A4352;
+}
+.sidebar-list {
+    color: orange; 
+    padding-left: 20px;
+
+}
+.sidebar-list span {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.soft-skills-section {
+    margin-left: 40px
+}
+.sidebar-title2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A ;
+}
+.sidebar-list2 span {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.sidebar-list2 {
+    color: orange; 
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
