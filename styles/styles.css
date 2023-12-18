@@ -55,10 +55,10 @@ body {
 }
 
 .block-title {
-    font-size: normal;
+    font-size: 22px;
     font-family: 'Montserrat';
     font-weight: 700;
-    font-style: 22px;
+    font-style: normal;
     line-height: 27px;
     color: #000; 
 }
@@ -152,14 +152,8 @@ ol li  .bracket {
     /* SIDEBAR STYLES */
 
 .sidebar-section {
-    background-color: #B1CCFF ;
+    background-color: #c5d1e9;
     width: 370px;
-}
-
-.sidebar-section img {
-    margin-top: 20px;
-    width: 350px;
-    height: 450px;
 }
 
 .sidebar-title {
@@ -224,7 +218,16 @@ ol li  .bracket {
     padding-left: 20px;
 }
 
+.profile-photo {
+    border-radius: 50%;
+    width: 12em;
+    height: 12em;
+}
 
+.profile-section {
+    text-align: center;
+    padding-top: 1em;
+}
 
 
 
